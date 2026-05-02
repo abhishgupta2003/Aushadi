@@ -26,13 +26,15 @@ export default function Home() {
 ];
   return (
     < div className="">
-        <h3 className=" flex item items-center justify-center py-5 bg-green-200 border-r-emerald-700"> AI powered Pharmacy Assistant</h3>
+      <h3 className="flex items-center justify-center py-5 bg-emerald-900 border-l-4 border-emerald-400 font-serif text-2xl font-bold text-emerald-100 tracking-wide">
+  Your Desi Dawaii Dukan
+</h3>
      <div className="px-2 py-8 font-medium">
             <p className="text-3xl font-sans  flex items-center justify-center font py-3"> Your trusted </p>
              <p className="text-3xl text-green-600 flex items-center justify-center "> medicine  Store </p>
              </div>
              <div className="font-sans text-small  flex item-center justify-center ">
-              <p>Order medicines online with expert AI guidance.</p>
+              <p>Order medicines online with expert  guidance.</p>
             
              </div>
                 <div className="font-sans text-small  flex item-center justify-center ">
@@ -40,7 +42,7 @@ export default function Home() {
             
              </div>
              <div>
-              <p className="text-sm text-gray-500 flex items-center justify-center py-3">  Your health, our priority. Shop smart with Aushadi AI.</p>
+              <p className="text-sm text-gray-500 flex items-center justify-center py-3">  Your health, our priority. Shop smart with Aushadi .</p>
              </div>
               <div className="container mx-auto px-6 py-6">
               
