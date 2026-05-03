@@ -10,13 +10,12 @@ export default function Navbar() {
     <nav className="w-full border-b bg-white shadow-sm">
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
 
-        {/* Logo */}
         <Link href="/" className="flex items-center gap-2 no-underline">
           <div className="w-9 h-9 rounded-xl bg-green-500 flex items-center justify-center shadow-sm">
-            <span className="text-white font-bold">+</span>
+            
           </div>
           <h2 className="text-xl font-bold text-gray-800">
-            Aushadhi <span className="text-green-500">AI</span>
+            Aushadhi <span className="text-green-500"></span>
           </h2>
         </Link>
 
